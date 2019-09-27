@@ -1,0 +1,2 @@
+include ':app', ':client', ':parking', ':garage'
+rootProject.name='SmartPark'
